@@ -104,3 +104,25 @@ body {
   max-width: 300px;
   border-radius: 10px;
 }
+
+/* mobile*/
+
+
+@media (max-width: 768px) {
+
+  /*stack nav items*/
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /*stack image and text vertically*/
+  .content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .image img {
+    max-width: 250px;
+  }
+}

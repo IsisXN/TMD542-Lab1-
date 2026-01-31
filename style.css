@@ -61,3 +61,34 @@ body {
   align-items: center;
   gap: 2rem;
 }
+
+/* Text area */
+.text {
+  flex: 1;
+}
+
+.text h1,
+.text h2 {
+  color: #0a1f44;
+  margin-bottom: 1rem;
+}
+
+.text p {
+  margin-bottom: 1rem;
+}
+
+
+/* Text area */
+.text {
+  flex: 1;
+}
+
+.text h1,
+.text h2 {
+  color: #0a1f44;
+  margin-bottom: 1rem;
+}
+
+.text p {
+  margin-bottom: 1rem;
+}

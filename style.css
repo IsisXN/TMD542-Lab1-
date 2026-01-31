@@ -1,7 +1,14 @@
-/* Reset default browser styles */
+/* reset default browser styles */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
+}
+
+/* page background */
+body {
+  background-color: #f4f8fc;
+  color: #1a1a1a;
+  line-height: 1.6;
 }

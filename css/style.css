@@ -144,4 +144,15 @@ body {
   .image img {
     max-width: 250px;
   }
+  
+    .text p {
+    padding: 0.85rem;
+  }
+
+  .image img:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+  
 }
